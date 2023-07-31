@@ -33,9 +33,6 @@ during festive seasons.
 - Customer service: Delhivery should continue to improve its customer service by providing more transparency and tracking information.
 - Compliance: Delhivery should stay up-to-date on the latest regulations in order to avoid compliance issues.
 
-## Dataset
-- Download the dataset for custom training
-
 ## Installations
 ### Requirements
 - Python 3.9
